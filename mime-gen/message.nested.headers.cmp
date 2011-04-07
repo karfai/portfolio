@@ -1,0 +1,32 @@
+Return-Path: <beazley@riverdale.strangeware.ca>
+From: beazley <beazley@riverdale.strangeware.ca>
+To: weatherbee <weatherbee@riverdale.strangeware.ca>
+Subject: message nested
+X-Header0: Header0
+X-Header1: Header1
+X-Header2: Header2
+Message-Id: <1302138451.14859.0@MG>
+Date: Thu, 07 Apr 2011 01:07:31 +0000
+MIME-Version: 1.0
+Content-Type: message/rfc822
+
+Subject: Part0
+X-Header0: Header00
+X-Header1: Header01
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+The Red Queen is a fictional character who appears in Lewis Carroll's fanta=
+sy novella, Through the Looking-Glass.
+
+With a motif of Through the Looking-Glass being representations of the game=
+ of chess, the Red Queen could be viewed as an antagonist in the story as s=
+he is the queen for the side opposing Alice. Despite this, their initial en=
+counter is a cordial one, with the Red Queen explaining the rules of Chess =
+concerning promotion =E2=80=94 specifically that Alice is able to become a =
+queen by starting out as a pawn and reaching the eighth square at the oppos=
+ite end of the board. As a queen in the game of Chess, the Red Queen is abl=
+e to move swiftly and effortlessly.
+=

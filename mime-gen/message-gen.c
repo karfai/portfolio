@@ -1,5 +1,5 @@
-#include <string.h>
-#include <unistd.h>
+/* #include <string.h> */
+/* #include <unistd.h> */
 #include <glib.h>
 #include <gmime/gmime.h>
 
