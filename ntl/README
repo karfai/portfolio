@@ -6,9 +6,9 @@ and broadcasts those traces to listening clients.
 
 WHY?
 
-This was an experiement in learning gnet usage to determine the
-suitability of the library for a larger project. Additionally, it
-served as the basis for a new logging system in another project.
+This was an experiment to determine the suitability of using the GNet
+in a larger project. Coincidentally, it served as the basis for a new
+logging system in another project.
 
 PARTS
 - libraries: ntlc and ntll which implement shared parts of the system
