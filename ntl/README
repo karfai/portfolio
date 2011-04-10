@@ -10,6 +10,13 @@ This was an experiement in learning gnet usage to determine the
 suitability of the library for a larger project. Additionally, it
 served as the basis for a new logging system in another project.
 
+PARTS
+- libraries: ntlc and ntll which implement shared parts of the system
+- ntld: a network peer that broadcasts traces
+- ntl_fl: a listener that receives traces and writes them to a file
+- ntl_gtk: a listener that formats traces into a Gtk UI
+- tests/: simplistic testing of the base libraries
+
 SMALL PRINT
 
 This particular publication of NTL is an entry in my (dkelly) software
@@ -17,3 +24,4 @@ portfolio. It demonstrates:
 
 - network programming (using gnet)
 - C programming (with heavy reliance on glib)
+- unit testing in C (with cmockery)
