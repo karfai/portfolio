@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 2.6)
+project(ntl)
+
+find_package(PkgConfig)
+pkg_search_module(GLIB glib-2.0)
+pkg_search_module(GNET gnet-2.0)
+pkg_search_module(GTK gtk+-2.0)
+
+add_subdirectory(src/lib/ntlc)
+add_subdirectory(src/lib/ntll)
+add_subdirectory(src/bin/ntld)
+add_subdirectory(src/bin/ntl_test)
+add_subdirectory(src/bin/ntl_fl)
+add_subdirectory(src/bin/ntl_gtk)
+add_subdirectory(tests)
