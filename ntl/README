@@ -1,0 +1,19 @@
+WHAT?
+
+This is a (very) simple network logging implementation. It implements
+a network peer that listens for network logging traces from clients
+and broadcasts those traces to listening clients.
+
+WHY?
+
+This was an experiement in learning gnet usage to determine the
+suitability of the library for a larger project. Additionally, it
+served as the basis for a new logging system in another project.
+
+SMALL PRINT
+
+This particular publication of NTL is an entry in my (dkelly) software
+portfolio. It demonstrates:
+
+- network programming (using gnet)
+- C programming (with heavy reliance on glib)
