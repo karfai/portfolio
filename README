@@ -2,5 +2,5 @@ This is a software portfolio for Don Kelly <karfai@gmail.com>.
 
 Contents:
 
-* MG - a MIME message construction DSL interpreter
-* NTL - a network logging experiment using gnet
+* MG - a MIME message construction DSL interpreter (C)
+* NTL - a network logging experiment using gnet (C)
