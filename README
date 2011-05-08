@@ -4,3 +4,7 @@ Contents:
 
 * MG - a MIME message construction DSL interpreter (C)
 * NTL - a network logging experiment using gnet (C)
+
+Other projects kept outside of this repo:
+
+* velvet: sane android databases (https://github.com/ottawaandroid/velvet)
