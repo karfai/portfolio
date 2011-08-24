@@ -7,6 +7,8 @@ Contents:
 
 Other open projects kept outside of this repo:
 
+* octranspo-api: RESTful web service for accessing GTFS feeds (https://github.com/karfai/octranspo-api) (ruby, sinatra, datamapper)
+
 Projects created with/for Ottawa Android (http://ottawaandroid.ca/)
 * velvet: sane android databases (https://github.com/ottawaandroid/velvet) [with csaunders]
 * velour: collection of reuseable widgets (https://github.com/ottawaandroid/velour)
